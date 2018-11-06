@@ -2,6 +2,7 @@ package ua.com.sourceit.sweets;
 
 public class Main
 {
+    //test
 
     public Main()
     {
