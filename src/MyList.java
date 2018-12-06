@@ -1,5 +1,5 @@
 
-public interface MyList {
+public interface MyList extends Iterable<Object> {
 	void add(Object e); // appends the specified element to the end of this list
 
 	void clear(); // removes all of the elements from this list
